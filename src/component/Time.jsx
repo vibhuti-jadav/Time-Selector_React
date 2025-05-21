@@ -20,6 +20,7 @@ const Time = () => {
     ]);
   };
 
+
   const handleSubmit = () => {
     const allValid = entries.every(
       (ele) => ele.option && ele.startTime && ele.endTime
