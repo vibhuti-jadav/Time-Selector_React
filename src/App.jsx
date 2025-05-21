@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './App.css'
-import Time from './component/time'
+import Time from './component/Time'
 
 function App() {
   const [count, setCount] = useState(0)
