@@ -74,11 +74,11 @@ const Time = () => {
 
        
 
-<button type="button" onClick={handleAdd} class="text-white bg-gradient-to-r from-purple-500 via-purple-600  to-purple-700 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-purple-300 dark:focus:ring-purple-800 font-medium rounded-pill text-sm px-12 py-2.5 text-center me-2 mb-2">Add items</button>
+<button type="button" onClick={handleAdd} className="text-white bg-gradient-to-r from-purple-500 via-purple-600  to-purple-700 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-purple-300 dark:focus:ring-purple-800 font-medium rounded-pill text-sm px-12 py-2.5 text-center me-2 mb-2">Add items</button>
 
 
             
-<button type="button" onClick={handleSubmit} class="text-white bg-gradient-to-r from-teal-400 via-teal-500 to-teal-600 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-teal-300 dark:focus:ring-teal-800 font-medium rounded-pill text-sm px-25 py-2.5 text-center me-2 mb-2">Submit</button>
+<button type="button" onClick={handleSubmit} className="text-white bg-gradient-to-r from-teal-400 via-teal-500 to-teal-600 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-teal-300 dark:focus:ring-teal-800 font-medium rounded-pill text-sm px-25 py-2.5 text-center me-2 mb-2">Submit</button>
 
           </div>
         </div>
